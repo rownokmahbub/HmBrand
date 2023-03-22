@@ -6,7 +6,7 @@ import PopularCategory from './components/PopularCategory.vue';
 </script>
 
 <template>
-  <v-app>
+  <v-app data-theme="light">
  <Navbar/>
  <Hero/>
  <PopularCategory/>
